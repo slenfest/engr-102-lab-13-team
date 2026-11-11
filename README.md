@@ -62,15 +62,13 @@ Create a document named `reflection_yourname.pdf` and answer the following quest
 
 5. **You want me to program an entire game?!** Well, yes, but you can use AI tools to help you out with the coding. The point of this assignment is to use your design skills and incorporate everything we've learned in class. Plus you will end up with something fun to play over the break. Your game doesn't have to be perfect, but it should demonstrate everything you've learned this semester. Be creative! Have fun!
 
-6. **Wait, we get to use AI tools?!** Yes... but only for the coding portion of the assignment. Your design plan and reflection must be written by you, in your own words, WITHOUT AI tools.
+6. **Can I program a different game or do I have to choose one of those listed in the pdf?** If you want to program a different game, talk to your instructor during class.
 
-7. **Can I program a different game or do I have to choose one of those listed in the pdf?** If you want to program a different game, talk to your instructor during class.
+7. **Do I have to use the bottom-up design method?** Yes, but just to start. It's okay to get halfway through then switch to the top-down approach (or something else entirely).
 
-8. **Do I have to use the bottom-up design method?** Yes, but just to start. It's okay to get halfway through then switch to the top-down approach (or something else entirely).
+8. **What kind of stuff is considered "beyond what is covered in the course" (learn something new)?** This is open ended and we're lenient on this requirement. As long as it wasn't used previously in the course (lectures or assignments), it counts. Examples may include a new module, tkinter or pygame, using an audio file, displaying an image, interacting with a webpage... and many more.
 
-9. **What kind of stuff is considered "beyond what is covered in the course" (learn something new)?** This is open ended and we're lenient on this requirement. As long as it wasn't used previously in the course (lectures or assignments), it counts. Examples may include a new module, tkinter or pygame, using an audio file, displaying an image, interacting with a webpage... and many more.
-
-10. **Any advice (or help)?** [Check out this free online textbook](http://inventwithpython.com/invent4thed/). If you're stuck, go to office hours and ask for help in class!
+9. **Any advice (or help)?** [Check out this free online textbook](http://inventwithpython.com/invent4thed/). If you're stuck, go to office hours and ask for help in class!
 
 Have a question you don't see here? Email your instructor!
 
