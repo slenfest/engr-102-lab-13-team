@@ -60,7 +60,7 @@ Create a document named `reflection_yourname.pdf` and answer the following quest
 
 4. **For the reflection, are you really going to read everyone's submission?** Yes!
 
-5. **You want me to program an entire game?!** Well, yes, but you can use AI tools to help you out with the coding. The point of this assignment is to use your design skills and incorporate everything we've learned in class. Plus you will end up with something fun to play over the break. Your game doesn't have to be perfect, but it should demonstrate everything you've learned this semester. Be creative! Have fun!
+5. **You want me to program an entire game?!** Well, yes, but you will only be graded on meeting the minimum requirements. The point of this assignment is to use your design skills and incorporate everything we've learned in class. Plus you should end up with something fun to play over the break. Your game doesn't have to be perfect, but it should demonstrate everything you've learned this semester. Be creative! Have fun!
 
 6. **Can I program a different game or do I have to choose one of those listed in the pdf?** If you want to program a different game, talk to your instructor during class.
 
